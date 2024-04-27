@@ -1,0 +1,7 @@
+C:\Users\Aryan Vataliya\source\repos\CourseManagementSystemWCF\CourseManagementSystemWCF\bin\Debug\CourseManagementSystemWCF.dll.config
+C:\Users\Aryan Vataliya\source\repos\CourseManagementSystemWCF\CourseManagementSystemWCF\bin\Debug\CourseManagementSystemWCF.dll
+C:\Users\Aryan Vataliya\source\repos\CourseManagementSystemWCF\CourseManagementSystemWCF\bin\Debug\CourseManagementSystemWCF.pdb
+C:\Users\Aryan Vataliya\source\repos\CourseManagementSystemWCF\CourseManagementSystemWCF\obj\Debug\CourseManagementSystemWCF.csproj.AssemblyReference.cache
+C:\Users\Aryan Vataliya\source\repos\CourseManagementSystemWCF\CourseManagementSystemWCF\obj\Debug\CourseManagementSystemWCF.csproj.CoreCompileInputs.cache
+C:\Users\Aryan Vataliya\source\repos\CourseManagementSystemWCF\CourseManagementSystemWCF\obj\Debug\CourseManagementSystemWCF.dll
+C:\Users\Aryan Vataliya\source\repos\CourseManagementSystemWCF\CourseManagementSystemWCF\obj\Debug\CourseManagementSystemWCF.pdb

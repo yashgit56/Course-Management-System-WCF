@@ -1,0 +1,14 @@
+C:\Users\Aryan Vataliya\source\repos\CourseManagementSystemWCF\CourseManagementSystemHost\bin\Debug\CourseManagementSystemHost.exe.config
+C:\Users\Aryan Vataliya\source\repos\CourseManagementSystemWCF\CourseManagementSystemHost\bin\Debug\CourseManagementSystemHost.exe
+C:\Users\Aryan Vataliya\source\repos\CourseManagementSystemWCF\CourseManagementSystemHost\bin\Debug\CourseManagementSystemHost.pdb
+C:\Users\Aryan Vataliya\source\repos\CourseManagementSystemWCF\CourseManagementSystemHost\bin\Debug\CourseManagementSystemWCF.dll
+C:\Users\Aryan Vataliya\source\repos\CourseManagementSystemWCF\CourseManagementSystemHost\bin\Debug\CourseManagementSystemWCF.pdb
+C:\Users\Aryan Vataliya\source\repos\CourseManagementSystemWCF\CourseManagementSystemHost\bin\Debug\CourseManagementSystemWCF.dll.config
+C:\Users\Aryan Vataliya\source\repos\CourseManagementSystemWCF\CourseManagementSystemHost\obj\Debug\CourseManagementSystemHost.csproj.AssemblyReference.cache
+C:\Users\Aryan Vataliya\source\repos\CourseManagementSystemWCF\CourseManagementSystemHost\obj\Debug\CourseManagementSystemHost.Form1.resources
+C:\Users\Aryan Vataliya\source\repos\CourseManagementSystemWCF\CourseManagementSystemHost\obj\Debug\CourseManagementSystemHost.Properties.Resources.resources
+C:\Users\Aryan Vataliya\source\repos\CourseManagementSystemWCF\CourseManagementSystemHost\obj\Debug\CourseManagementSystemHost.csproj.GenerateResource.cache
+C:\Users\Aryan Vataliya\source\repos\CourseManagementSystemWCF\CourseManagementSystemHost\obj\Debug\CourseManagementSystemHost.csproj.CoreCompileInputs.cache
+C:\Users\Aryan Vataliya\source\repos\CourseManagementSystemWCF\CourseManagementSystemHost\obj\Debug\CourseManagementSystemHost.csproj.CopyComplete
+C:\Users\Aryan Vataliya\source\repos\CourseManagementSystemWCF\CourseManagementSystemHost\obj\Debug\CourseManagementSystemHost.exe
+C:\Users\Aryan Vataliya\source\repos\CourseManagementSystemWCF\CourseManagementSystemHost\obj\Debug\CourseManagementSystemHost.pdb
